@@ -79,7 +79,7 @@ Eine zentrale Plattform für Unternehmensprozesse.
 
 📧 E-Mail: mail@bajo-dav.ch 
 🌐 Portfolio: www.bajo-dev.ch 
-💼 LinkedIn: ....
+💼 LinkedIn: https://www.linkedin.com/in/joannis-ballos/
 
 ---
 
