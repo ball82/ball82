@@ -10,7 +10,7 @@
 
 ## 🚀 Über mich
 
-Ich entwickle moderne Webanwendungen mit **Angular, TypeScript und JavaScript** und Fokus auf **objektorientierte Programmierung (OOP)**.  
+Ich entwickle moderne Webanwendungen mit Fokus auf **JavaScript und objektorientierte Programmierung (OOP)**.  
 Mein Schwerpunkt liegt auf **logischer Architektur, Benutzerinteraktionen und skalierbaren Lösungen**.
 
 Aktuell arbeite ich an:
@@ -22,8 +22,6 @@ Aktuell arbeite ich an:
 ## 🧠 Skills
 
 💡 **Frontend**
-- Angular
-- TypeScript
 - JavaScript (OOP)
 - HTML5 / CSS3
 - DOM Manipulation
@@ -36,7 +34,6 @@ Aktuell arbeite ich an:
 📐 **Konzepte**
 - Objektorientierte Programmierung (OOP)
 - Modulare Architektur
-- Komponentenbasierte Entwicklung
 - UI/UX Grundlagen
 
 ---
@@ -68,10 +65,6 @@ Eine kombinierte Lösung für:
 **Ziel:**
 Eine zentrale Plattform für Unternehmensprozesse.
 
-**Tech Stack:**
-- Angular
-- TypeScript
-
 ---
 
 
@@ -79,7 +72,7 @@ Eine zentrale Plattform für Unternehmensprozesse.
 
 🎯 Einstieg als Frontend Developer  
 🚀 Aufbau eigener Softwarelösungen  
-🧠 Kontinuierliche Weiterentwicklung in Angular, TypeScript und JavaScript  
+🧠 Kontinuierliche Weiterentwicklung in JavaScript  
 
 ---
 
