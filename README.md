@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Joannis Ballos
 
-**Fullstack Developer · Angular & TypeScript · Region Aarau 🇨🇭**
+**Fullstack Developer · aus der Schweiz 🇨🇭**
 
 Ich entwickle moderne, skalierbare Webanwendungen mit Fokus auf saubere Architektur, durchdachte Benutzerinteraktion und objektorientierte Programmierung (OOP).
 
