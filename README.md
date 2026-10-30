@@ -1,7 +1,7 @@
 
 # 👋 Hi, ich bin Joannis
 
-💻 Frontend Developer aus der Region Aarau  
+💻 Frontend Developer  
 🎓 Meine Frontend-Ausbildung habe ich abgeschlossen und lerne gerade Backend-Entwicklung dazu  
 🚀 Fokus auf interaktive Web Apps & Spiele  
 📍 Schweiz  
