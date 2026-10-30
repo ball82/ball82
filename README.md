@@ -1,7 +1,8 @@
 
 # 👋 Hi, ich bin Joannis
 
-💻 Frontend Developer | JavaScript | OOP  
+💻 Frontend Developer  
+🎓 Meine Frontend-Ausbildung habe ich abgeschlossen und lerne gerade Backend-Entwicklung dazu  
 🚀 Fokus auf interaktive Web Apps & Spiele  
 📍 Schweiz  
 
